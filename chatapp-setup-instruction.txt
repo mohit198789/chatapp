@@ -1,0 +1,26 @@
+Chat App
+--------------
+Setup App
+create react app
+install dependency - npm install react-router-dom
+install dependency - npm install firebase@6.0.2
+install material UI dependecy - npm install @material-ui/core
+
+install material UI icon dependecy - npm install @material-ui/icons
+
+Setup Firebase
+create firebase account and add project on console.firebase.google.com
+
+goto develop->Authentication->Signin method and enable email and password
+
+Click on Databse and create cloud firestore db
+click on start collection Add User and Chats
+select auto id
+
+delete that id from dashboard
+
+
+add some content in your index.js for firebase initialization .. info availablle in dashboard of firebase
+
+set routing object for each and individual component so u can access by its url
+
